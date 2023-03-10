@@ -27,7 +27,7 @@ List of commands this console current supports:
 * `all` - Prints all string representation of all instances based or not on the class name. 
 * `update` - Updates an instance based on the class name and id by adding or updating attribute (save the change into the JSON file). 
 
-#### `models/` directory contains classes used for this project:
+#### `models/` Directory contains classes used for this project:
 [base_model.py](/models/base_model.py) - The BaseModel class from which future classes will be derived
 * `def __init__(self, *args, **kwargs)` - Initialization of the base model
 * `def __str__(self)` - String representation of the BaseModel class
@@ -42,7 +42,10 @@ Classes inherited from Base Model:
 * [state.py](/models/state.py)
 * [user.py](/models/user.py)
 
-Tests
+#### `models/engine` Directory contains storage used for this project:
+* [file_storage.py](/models/engine/file_storage.py)
+
+#### `Tests` Tests used in project creation: 
 * [/tests](/tests)
 
 ## Examples of use
@@ -72,7 +75,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-*Ruven Pillay*
+**Ruven Pillay**
 
 ## License
 Public Domain. No copy write protection. 
