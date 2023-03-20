@@ -18,8 +18,8 @@
 - [x] Task 3
 - [x] Task 4
 - [x] Task 5
-- [ ] Task 6
-- [ ] Task 7
+- [x] Task 6
+- [x] Task 7
 - [ ] Task 8
 
 ### Advanced
