@@ -4,10 +4,10 @@
 * Learning HTML and CCS, basics and structure
 ---
 
-(/styles)[/styles]:
+[/styles](/styles):
 * contains css files of the repo
 
-(/images)[/images]:
+[/images](/images):
 * Contains png icons for the repo
 
 ## Tasks 
@@ -17,7 +17,7 @@
 - [x] Task 2
 - [x] Task 3
 - [x] Task 4
-- [ ] Task 5
+- [x] Task 5
 - [ ] Task 6
 - [ ] Task 7
 - [ ] Task 8
